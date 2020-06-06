@@ -27,3 +27,7 @@ Nosso aplicativo foi criado com React-Native + Expo, assim como o cliente web o 
 ![readme_files/Screenshot_2020-06-06-12-33-43-547_host.exp.exponent.jpg](readme_files/Screenshot_2020-06-06-12-33-43-547_host.exp.exponent.jpg)
 
 ![readme_files/Screenshot_2020-06-06-12-33-51-616_host.exp.exponent.jpg](readme_files/Screenshot_2020-06-06-12-33-51-616_host.exp.exponent.jpg)
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Foi uma semana de muitos aprendizados!
